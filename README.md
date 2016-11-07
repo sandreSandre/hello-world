@@ -1,2 +1,3 @@
 # hello-world
 nouvelle arrivante, nouvelle page de test...
+ceci est tout nouveau et prelude a des exercices à venir.
